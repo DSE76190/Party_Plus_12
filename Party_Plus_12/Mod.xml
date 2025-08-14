@@ -1,0 +1,11 @@
+<Header>
+  <Name>Party Plus 12</Name>
+  <Author>DSE76</Author>
+  <Description>A mod that increases the party number up to 12.</Description>
+  <Namespace>party_plus_12</Namespace>
+  <UUID>B9F0D7AE-B7A8-4DA0-9BDC-A4DB82E37FC8</UUID>
+  <Version>2.0</Version>
+  <GameVersion>0.8.9</GameVersion>
+  <ModType>Mod</ModType>
+  <Relationships />
+</Header>
